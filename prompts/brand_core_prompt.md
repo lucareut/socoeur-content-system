@@ -1,4 +1,4 @@
-# SOCOEUR — Brand Core Prompt v1
+# Socoeur — Brand Core Prompt v1
 
 ## ROLE
 
