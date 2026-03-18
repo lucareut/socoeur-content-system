@@ -75,7 +75,6 @@ Goal: Reveal fragments of the jersey.
 Content elements:
 - Fabric texture
 - Stitching
-- Numbers
 - Silhouette
 - Material details
 
