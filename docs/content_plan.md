@@ -36,7 +36,8 @@ AI is used to assist production and structure thinking, but not to replace creat
 Key dates:
 
 Studio Shoot → April 6
-Outdoor Shoot (Stade de la Pontaise) → April 12
+Outdoor Shoot → April 12 & April 18/19
+Stade de la Pontaise Shoot → in April 
 Website launch → May 1
 World Cup → June 2026
 
