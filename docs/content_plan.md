@@ -112,7 +112,7 @@ Content elements:
 - Match moments
 - Influencer content
 
-Publishing frequency: ~2 posts per week
+Publishing frequency: ~3-4 posts per week
 
 ---
 
